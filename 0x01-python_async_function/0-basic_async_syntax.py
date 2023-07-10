@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Asynchronous coroutine
+Asynchronous coroutine that takes
+in an integer argument
 """
 import asyncio
 import random
