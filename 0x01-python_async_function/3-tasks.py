@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-'''function task_wait_random that takes an integer
+'''
+function task_wait_random that takes an integer
 '''
 import asyncio
 
